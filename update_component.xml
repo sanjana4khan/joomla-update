@@ -2,7 +2,7 @@
     <update>
         <name>Car Wash</name>
         <description>New Features for Car Wash Component</description>
-        <element>Car Wash</element>
+        <element>com_carwash</element>
         <type>component</type>
         <version>1.2.1</version>
         <downloads>
