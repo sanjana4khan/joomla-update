@@ -6,7 +6,7 @@
         <type>component</type>
         <version>1.2.1</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/sanjana4khan/joomla-update/releases/download/v1.0.0/com_carwash-v-1.2.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/sanjana4khan/joomla-update/releases/download/v1.0.0/mod_carwash_v1.2.1.zip</downloadurl>
         </downloads>
         <targetplatform name="joomla" version="3.10.4" />
     </update>
