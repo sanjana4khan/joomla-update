@@ -1,6 +1,6 @@
 <updates>
     <update>
-        <name>COM_CARWASH_XML_NAME</name>
+        <name>Car Wash</name>
         <description>New Features for Car Wash Component</description>
         <element>com_carwash</element>
         <type>component</type>
